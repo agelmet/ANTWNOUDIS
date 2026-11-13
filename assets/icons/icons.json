@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/aa-energy-consultants-icon.svg"
+ },
+ "source_md5": "4073d5afd82f2f1560873c825437834f",
+ "version": "159c7a01",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "6f946a10d768dcc5d3e475ff0c161b42"
+ ],
+ "made": "2026-11-13"
+}
